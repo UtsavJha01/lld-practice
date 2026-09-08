@@ -68,7 +68,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h1 className="font-semibold tracking-tight">LLD Coach</h1>
+              <h1 className="font-semibold tracking-tight">LLD Forge</h1>
               <p className="text-xs text-zinc-500">Practice. Design. Improve.</p>
             </div>
           </div>
